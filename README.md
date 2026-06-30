@@ -8,4 +8,8 @@ I welcome any contributions! Please submit them as a pull request. There's loads
 
 I also think it'd be fun to make a mod of this mod (when there's something to mod) that translates everything in Unciv into Sindarin or Quenya. If there is anyone reading this who's better at Elvish than I am, which isn't that great, I'd love to work together on that!
 
+Other recommendation: **Use https://tolkiengateway.net! It's free and great!**
+
+Lastly, I recognize the **books** as canon, and _not_ the movies.
+
 I'll make this more organized when the mod exists as more than a README.
